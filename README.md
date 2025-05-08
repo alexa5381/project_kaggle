@@ -3,6 +3,17 @@ This dataset is based off the unemployment rates in the U.S job market starting 
 
 ## Contents 
 df_sex_unemployment_rates.csv:
-Contains unemployment rates disaggregated by gender (male/female).
+These are the unemployment rates by gender (male/female).
+
+df_unemployment_rates.csv:
+These are the unemployment rates by age groups
+
+Ages 16–17
+Ages 18–19
+Ages 20–24
+Ages 25–34
+Ages 35–44
+Ages 45–54
+Ages 55 and over
 
 

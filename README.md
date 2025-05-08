@@ -15,5 +15,11 @@ Ages 25–34
 Ages 35–44  
 Ages 45–54  
 Ages 55 and over
+this is the link to the datasets  
 
-
+In this project we will be answering the following questions:
+1. What does the unemployment dataset look like?  
+2. What is the average unemployment rate in this dataset?  
+3. What are the highest and lowest unemployment rates recorded in the dataset?  
+4. On average, how do unemployment rates compare between males and females?  
+5. Can we visualize the difference in average unemployment rates between males and females using a bar chart?  
